@@ -3,7 +3,7 @@
   <channel>
     <title>TWS - Employee</title>
     <item>
-        <title>Version 1.4.0</title>
+        <title>Version 1.3.0</title>
         <description>description android</description>
         <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
         <enclosure url="" sparkle:version="1.4.0" />
@@ -32,7 +32,7 @@
     -->
     <!-- A release testing minimumSystemVersion-->
     <item>
-        <title>Version 1.4.0</title>
+        <title>Version 1.3.0</title>
         <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
         <enclosure url="" sparkle:version="1.4.0" sparkle:os="iOS" />
         <!--<sparkle:version>3.0.0</sparkel:version>
